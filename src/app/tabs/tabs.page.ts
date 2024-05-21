@@ -7,6 +7,9 @@ import { Component } from '@angular/core';
 })
 export class TabsPage {
 
+  public tab1Pokemon: any = null;
+
   constructor() {}
 
+ 
 }
